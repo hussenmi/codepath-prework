@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Working correctly](http://g.recordit.co/CVSVMO6FP7.gif)
-![](gif2-link-here)
-![](gif3-link-here)
+![Game over](http://g.recordit.co/V5PUkF5rvC.gif)
+![Random pattern](http://g.recordit.co/62wqj0limn.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
