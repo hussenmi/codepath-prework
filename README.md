@@ -78,7 +78,7 @@ If I had more hours to work on the project, I would focus on making it more pers
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/f3fed85cf2e4488a8adadbf7a0461c39)
 
 
 ## License
