@@ -1,10 +1,10 @@
 # Pre-work - *Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's FTL Program. 
 
 Submitted by: **Hussen Mohammed Ibrahim**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/evening-brainy-petunia)
 
@@ -78,7 +78,7 @@ If I had more hours to work on the project, I would focus on making it more pers
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.loom.com/share/f3fed85cf2e4488a8adadbf7a0461c39)
+[My 5-minute Interview Recording](https://www.loom.com/share/f92834c37628424d8b9962d3105ea5dd)
 
 
 ## License
